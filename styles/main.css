@@ -1,0 +1,19 @@
+body {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+}
+
+hgroup {
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+	font-size: 5vh;
+}
+
+h2 {
+	font-size: 3vh;
+	color: dimgrey;
+}
